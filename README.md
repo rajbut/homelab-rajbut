@@ -1,2 +1,2 @@
-# rabut-homelab
-My Homelab
+# MahaMane
+Rajesh's MahaMane (Homelab)
